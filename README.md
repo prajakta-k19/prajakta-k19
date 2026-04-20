@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m a Computer Science undergraduate at KIIT with a strong interest in AI/ML, NLP, and software development. I enjoy building real-world solutions that combine intelligence with automation.<br><br>🔭 I’m currently working on Speech Emotion & Stress Detection using CNN + BiLSTM and AI-driven systems that solve practical problems.<br><br>🤝 I’m looking to collaborate on AI/ML projects, full-stack applications, and impactful hackathon ideas.<br><br>🛠️ I’m looking for help with advanced system design, scalable ML deployment, and real-world product building.<br><br>🌱 I’m currently learning Data Structures & Algorithms, Machine Learning, and Full Stack Web Development.<br><br>💬 Ask me about Java, Python, AI/ML, NLP, APIs, and building end-to-end projects.<br><br>⚡ Fun fact: I love turning ideas into real projects that actually solve problems — not just for resumes, but for real impact.
+💫 About Me<br><br>💻 I’m a Computer Science undergraduate at KIIT University with a strong interest in AI/ML, NLP, and data-driven systems. I focus on building practical solutions that combine intelligent models with real-world automation.<br><br>🔬 I’ve worked on projects like a Speech Emotion & Stress Detection system (CNN + BiLSTM) and an AI-powered Complaint Management System that automated routing of 100+ daily requests and reduced resolution time by 60%.<br><br>📊 As a Data Analytics Associate at USC KIIT, I’ve built Power BI dashboards and automated data validation workflows using Python, improving reporting efficiency and data accuracy.<br><br>🧠 My core skills include Java, Python, DSA, DBMS, SQL, and Machine Learning frameworks (TensorFlow, PyTorch, Scikit-learn).<br><br>🚀 I’m currently strengthening my fundamentals in Data Structures & Algorithms, Machine Learning, and system building, with a focus on becoming an AI-powered software developer.<br><br>🤝 I’m open to collaborating on AI/ML, data, and automation-based projects, and always interested in solving meaningful problems through technology.<br><br>⚡ What I’m working towards<br>Building end-to-end AI applications<br>Improving problem-solving (DSA) for placements<br>Gaining real-world development experience
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=prajakta-k19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=prajakta-k19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=prajakta-k19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=prajakta-k19&icon=0&color=0)](https://visitcount.itsvg.in)
