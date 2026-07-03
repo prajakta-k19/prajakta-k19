@@ -4,22 +4,16 @@ Final year CSE undergraduate at KIIT University, building at the intersection of
 
 ## About Me
 
-- Building an **Enterprise Intelligence Layer** at TATA Steel SNTI — multimodal document understanding (PDF, PPTX, DOCX) with semantic retrieval over a cross-domain knowledge base, using Google ADK and Gemini Vision.
+- Built an **Enterprise Intelligence Layer** at TATA Steel SNTI — multimodal document understanding (PDF, PPTX, DOCX) with semantic retrieval over a cross-domain knowledge base, using Google ADK and Gemini Vision.
 - Published researcher on IEEE Xplore, with a custom CNN for fine-grained animal breed classification.
 - Data Analytics Associate at USC.KIIT — building Power BI dashboards and automated data validation workflows.
 - Core interests: AI/ML, NLP, Generative AI systems (RAG, agentic pipelines), and data-driven automation.
 - Currently sharpening Data Structures & Algorithms and systems-design fundamentals for placements.
-- Open to collaborating on AI/ML, data, and automation-focused projects.
 
 ## 💼 Experience
 
 **AI Intern — TATA Steel SNTI**, Jamshedpur | *May 2026 – Jun 2026*
-- Building an Enterprise Intelligence Layer using Google ADK and Gemini Vision to enable multimodal document understanding across PDF, PPTX, and DOCX formats, with semantic retrieval over TSL's cross-domain knowledge base for senior leadership.
-
-**Data Analytics Associate — USC.KIIT**, Bhubaneswar | *Apr 2025 – Present*
-- Built Power BI dashboards, reducing reporting time by 30%.
-- Automated data validation scripts, improving data accuracy by 15%.
-- Contributed to technical screening for Data Analytics roles, evaluating candidates on analytical and problem-solving proficiency.
+- Built an Enterprise Intelligence Layer using Google ADK and Gemini Vision to enable multimodal document understanding across PDF, PPTX, and DOCX formats, with semantic retrieval over TSL's cross-domain knowledge base for senior leadership.
 
 ## 🚀 Projects
 
@@ -43,13 +37,11 @@ Final year CSE undergraduate at KIIT University, building at the intersection of
 
 - **Poonawalla Fincorp TenzorX Hackathon** — Ranked Top 150 among 20,000+ teams at TenzorX 2026, Poonawalla Fincorp's National AI Hackathon.
 - **ICDCIT-KIIT International Hackathon** — Selected among Top 30 teams.
-- **CodeSprint 2.0 (USC KIIT)** — Ranked Top 30 out of 700+ participants in a competitive 45-day DSA coding challenge.
-- **NPTEL Elite Certificate** — Database Management Systems, IIT Kharagpur (Jan – Apr 2025).
 
 ## 🎓 Education
 
 **KIIT University — Kalinga Institute of Industrial Technology**, Bhubaneswar
-B.Tech in Computer Science & Engineering | 2023 – 2027 | CGPA: 8.51/10.0
+B.Tech in Computer Science & Engineering | 2023 – 2027
 Coursework: Data Structures & Algorithms, Machine Learning, DBMS, Operating Systems, OOP
 
 ## 🛠 Tech Stack
