@@ -10,11 +10,6 @@ Final year CSE undergraduate at KIIT University, building at the intersection of
 - Core interests: AI/ML, NLP, Generative AI systems (RAG, agentic pipelines), and data-driven automation.
 - Currently sharpening Data Structures & Algorithms and systems-design fundamentals for placements.
 
-## 💼 Experience
-
-**AI Intern — TATA Steel SNTI**, Jamshedpur | *May 2026 – Jun 2026*
-- Built an Enterprise Intelligence Layer using Google ADK and Gemini Vision to enable multimodal document understanding across PDF, PPTX, and DOCX formats, with semantic retrieval over TSL's cross-domain knowledge base for senior leadership.
-
 ## 🚀 Projects
 
 **Agentic RAG System with Mixture of Experts** | *May 2026 – Jun 2026*
@@ -33,16 +28,10 @@ Final year CSE undergraduate at KIIT University, building at the intersection of
 - Custom 5-block CNN trained on 9,200 images across 64 Indian cattle breeds, achieving 92.5% accuracy — outperforming ResNet50, VGG16, DenseNet121, MobileNetV2, and EfficientNetB0.
 - Validated model interpretability using Grad-CAM.
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
 - **Poonawalla Fincorp TenzorX Hackathon** — Ranked Top 150 among 20,000+ teams at TenzorX 2026, Poonawalla Fincorp's National AI Hackathon.
 - **ICDCIT-KIIT International Hackathon** — Selected among Top 30 teams.
-
-## 🎓 Education
-
-**KIIT University — Kalinga Institute of Industrial Technology**, Bhubaneswar
-B.Tech in Computer Science & Engineering | 2023 – 2027
-Coursework: Data Structures & Algorithms, Machine Learning, DBMS, Operating Systems, OOP
 
 ## 🛠 Tech Stack
 
